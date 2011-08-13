@@ -1,0 +1,3 @@
+An implementation of a neural net in C++. Also includes training data and test
+setup. I barely remember what I was testing here, it looks like maybe trying
+out OpenMP? It probably works, maybe. =)

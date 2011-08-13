@@ -1,0 +1,337 @@
+Using file out-0081815107.txt
+Trial 1/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 2/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 3/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 4/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 5/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 6/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 7/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 8/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 9/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 10/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 11/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 12/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 13/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 14/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 15/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 16/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 17/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 18/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 19/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 20/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 21/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 22/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 23/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 24/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 25/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 26/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 27/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 28/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 29/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+Trial 30/30
+Running NN with 1 threads
+Running NN with 2 threads
+Running NN with 3 threads
+Running NN with 4 threads
+Running NN with 5 threads
+Running NN with 6 threads
+Running NN with 7 threads
+Running NN with 8 threads
+
+Training Results
+Trials,1,2,3,4,5,6,7,8
+1,159019217385,83428140691,57302967743,43889485332,35722725304,30580992897,27086203347,24604098190
+2,159025972308,83190823842,57318494968,43878759890,35689592379,30850899142,27073976300,24678098186
+3,159054898016,83320071534,57321472824,43965570159,35622379254,30507837066,27215754419,24532967452
+4,159218519915,83293038766,57444889992,43912028615,35714437696,30876665022,27144053013,24621562343
+5,159186467965,83600069350,57235018582,44021472229,35829154480,30671031160,27265000770,24500632282
+6,161197625029,82713919232,57334853954,43929757816,35711163390,30749730536,27046202820,24698495178
+7,159013597253,83088482722,57490732313,43961305675,35793749733,30811368560,27174632240,24597792303
+8,159068984081,83275870804,57461598544,43983349263,35742136563,30762032056,27211968224,24481175446
+9,158969706539,82782421463,56971073950,43875620187,35846052340,30443374612,27156717987,24709953996
+10,159147157876,83296815532,57306002061,43862875826,35792008973,30686423558,27281479561,24549061999
+11,159019141554,82796599564,57269959600,43866923989,35680424451,30887780273,26997199243,24576627495
+12,158884770093,83647968243,57318554874,43885883405,35779493771,30734002579,27217804838,24662329909
+13,159148740576,83442992731,57398827108,44020026876,35710372733,30810902717,27046227089,24555611444
+14,158985076936,83031367048,57377158678,43848207088,35745733527,30693048379,27267224733,24657740779
+15,159334201971,83554624167,57323352177,44038005858,35733808719,30731563821,26993178954,24609337613
+16,158984193522,83246478098,57132400661,43892472855,35716151107,30563254666,27052040225,24723551335
+17,159016533991,83156797486,57428428064,43923000457,35696531696,30608118996,27415433990,24427793845
+18,159072037803,83544387633,57207288341,43926021678,35573973981,30769651227,27410939864,24529844367
+19,159036029159,83130364625,57221855250,43868905661,35722782102,30652725082,26834119333,24479462091
+20,159043830134,83340916337,57261942416,43890696934,35880637828,30719403610,27146856968,24499152909
+21,159007051581,82681827956,57413497008,43889955522,35605991708,30660476378,27035790761,24628688868
+22,158926847450,83204001349,57297740199,43846559512,35709364187,30787832915,27105885254,24616961369
+23,159044586785,83221081741,57258767307,44007503232,35706138426,30711792930,27148062403,24401337688
+24,159016841536,83281440956,57236691015,43848609868,35641233355,30617583416,27058037993,24987514706
+25,158935728917,83157749689,57206035866,43930515062,35631669178,30533677748,27183104109,24694084310
+26,159430580540,83325203325,57241187857,43929980724,35771790915,30570267602,27140746878,25113078781
+27,159060986126,83225505874,57176030884,43923674039,35645121148,30666381004,26995119123,24543401316
+28,159161226623,83379514162,57140068958,43996506218,35827505560,30853693024,27190514764,24328704421
+29,159016312630,83151157712,57233796312,43963017525,35664606803,30690790564,27108422222,24631494755
+30,159068811223,83376489287,57365602231,43929191047,35572860967,30938711874,26816118896,24650719800
+
+Testing Results
+Trials,1,2,3,4,5,6,7,8
+1,7538348902,3920730408,2664773118,2051700042,1685305944,1447735786,1287089160,1177315230
+2,7558229616,3903873841,2683964101,2059073254,1688699341,1451320066,1276913470,1164325582
+3,7539315350,3904139029,2679110896,2065178850,1688993719,1440096490,1281724633,1160345571
+4,7547712508,3914202999,2682995280,2052386175,1690136007,1458005535,1279386402,1167061868
+5,7537976012,3918258883,2680621216,2063152476,1694039739,1453848592,1274531538,1144433731
+6,7735166677,3889067322,2666676341,2058711074,1697689875,1454956076,1279373221,1167533374
+7,7539024647,3888286437,2675117333,2061917529,1694327915,1456602805,1278419604,1161130180
+8,7537677203,3914231398,2690931971,2050519527,1691475156,1450952608,1280991019,1189063386
+9,7535767421,3897920236,2658847282,2048829951,1690171630,1435938322,1272760349,1176499541
+10,7538676712,3921938930,2676713795,2060452954,1685530630,1454822348,1286525849,1158456957
+11,7540255100,3919278818,2689203636,2059893598,1690872820,1460765145,1271700605,1157962400
+12,7543440345,3942658118,2682560048,2058992481,1697164231,1444400720,1281633297,1160145476
+13,7544400500,3942064378,2690978381,2054603103,1683702902,1454201161,1269922542,1160051410
+14,7536329787,3906854490,2678076282,2053169748,1689314256,1448099779,1281629503,1164068724
+15,7535664507,3916895521,2682249318,2054854081,1718348499,1442264019,1276500659,1158335199
+16,7535946887,3903539206,2654157366,2057672855,1691648588,1448716801,1272005140,1181431566
+17,7539761110,3949564500,2677276511,2055789890,1675318904,1449242284,1286799675,1147768363
+18,7552038242,3923994620,2665009291,2063106584,1676122455,1462273414,1301348629,1158669925
+19,7540786967,3916457237,2668198022,2054468178,1688734110,1455692700,1265996494,1151242421
+20,7537195799,3944521371,2675483797,2057615854,1690837302,1455476183,1269133677,1168473824
+21,7536082519,3896339419,2689645350,2056048666,1674802325,1459103429,1273636749,1182256117
+22,7541077586,3904336051,2682269541,2060078566,1690642163,1460567339,1290266684,1156473899
+23,7537694283,3904544595,2674172277,2073095388,1683392592,1445788260,1293220313,1149592591
+24,7537051130,3903611922,2687836158,2052519840,1681852760,1453324341,1280679764,1205451632
+25,7586353236,3905366633,2676449832,2051005523,1670680592,1454956867,1280192746,1166534992
+26,7555488619,3905224211,2678699933,2049651786,1694649509,1441979329,1276806307,1184594544
+27,7537302766,3904657771,2669580676,2049178803,1686670587,1440966926,1272731558,1149165451
+28,7545030423,3917034576,2667756070,2058270025,1692427345,1452219734,1287727014,1153617094
+29,7536818086,3904064423,2686278735,2063479628,1680974631,1442638127,1288735490,1155399224
+30,7537049492,3923256596,2668627577,2055395573,1668645405,1472870595,1269604791,1157939181

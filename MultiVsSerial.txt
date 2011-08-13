@@ -1,0 +1,157 @@
+Using file out-0095476807.txt
+Trial 1/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 2/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 3/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 4/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 5/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 6/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 7/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 8/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 9/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 10/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 11/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 12/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 13/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 14/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 15/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 16/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 17/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 18/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 19/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 20/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 21/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 22/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 23/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 24/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 25/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 26/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 27/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 28/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 29/30
+Running NN with 0 threads
+Running NN with 1 threads
+Trial 30/30
+Running NN with 0 threads
+Running NN with 1 threads
+
+Training Results
+Trials,0,1
+1,158806111877,161347514237
+2,158726222382,159929563451
+3,158902297400,158936226659
+4,158756732218,159046530454
+5,158872730023,159004633263
+6,158972332995,158965683548
+7,158653602275,159011573441
+8,158811066512,158833630704
+9,158809779485,158980984197
+10,158589897207,158981816714
+11,160155642206,159009910703
+12,158747834231,159088015030
+13,158695720099,158859883833
+14,159174347178,158966655764
+15,158878626011,158978388982
+16,158656925126,158961643925
+17,158709970503,158960667908
+18,158678711317,158894175874
+19,158663071133,158989652955
+20,158860239587,159064028116
+21,160510592501,160627027211
+22,158710479018,159017113759
+23,159092608850,158977695009
+24,158645411554,158881372657
+25,158836273071,159017726441
+26,158606115115,158995067280
+27,158607248408,159037751530
+28,158623068072,159042261910
+29,158704053592,158862793082
+30,158915109850,159020993432
+
+Testing Results
+Trials,0,1
+1,7536702803,7752356948
+2,7526649557,7655765215
+3,7513501695,7536878468
+4,7517991810,7553812819
+5,7519910524,7537917989
+6,7521513545,7549752357
+7,7599407130,7535957933
+8,7515414543,7536716740
+9,7514252130,7540687168
+10,7562303826,7535905139
+11,7644986482,7537247074
+12,7515279730,7550756920
+13,7523163116,7591886022
+14,7516445419,7535594003
+15,7525413770,7535060722
+16,7516114606,7535521084
+17,7514092159,7535396099
+18,7522911739,7580680429
+19,7527423036,7536579204
+20,7514444392,7541533888
+21,7688538172,7704232564
+22,7524580973,7537636330
+23,7554447467,7536068638
+24,7561124571,7534647988
+25,7517946457,7536534173
+26,7513295734,7536215127
+27,7521640644,7540192191
+28,7522655861,7536259801
+29,7523607287,7584312316
+30,7524217092,7536299001
